@@ -36,7 +36,7 @@ currently_learning: Spring Boot, DSA, Cloud Technologies
 fun_fact: I turn ☕ into 💻 (and occasionally into hackathon trophies 🏆)
 ```
 
-- 🎓 B.Tech IT Student at **RMK Engineering College**, Chennai *(CGPA: 7.52)*
+- 🎓 B.Tech IT Student at **RMK Engineering College**, Chennai *(CGPA: 7.58)*
 - 💻 Passionate about **Full Stack Development** & Software Engineering
 - 🛠️ Building real-world apps with **Java, React, Node.js & MongoDB**
 - 🏆 **Winner — Envision Hackathon**, SSN College of Engineering
