@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Yadhu Krishna</h1>
 
-<!--
-**Yadhukrishna07/Yadhukrishna07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+IT Student | Full Stack Developer | Java Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Information Technology Student at RMK Engineering College
+- 💻 Passionate about Full Stack Development and Software Engineering
+- 🚀 Building projects using Java, React, Node.js and MongoDB
+- 🏆 Winner of Envision Hackathon at SSN Engineering College
+- 🌱 Currently learning Spring Boot, DSA and Cloud Technologies
+
+<hr>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,mongodb,mysql,git,github,vscode" />
+</p>
+
+<hr>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| 🧠 FocusFlow | Privacy-preserving adaptive learning platform |
+| 💬 Real-Time Chat App | Live chat application with JWT authentication |
+| 🎓 Student Management System | Full-stack student record management system |
+
+<hr>
+
+## 🏆 Achievements
+
+- 🥇 Envision Hackathon Winner
+- 📜 Oracle AI Vector Search Certified
+- ⭐ NPTEL Elite Certified
+- 👨‍💼 Vice Chair, IEEE Consumer Technology Society
+
+<hr>
+
+## 📫 Connect With Me
+
+- GitHub: github.com/Yadhukrishna07
+- LinkedIn: linkedin.com/in/yadhu-krishna-u-s-26374728a<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/2939eeda-768c-43b8-a623-73917f49e6c2" />
