@@ -46,4 +46,4 @@ IT Student | Full Stack Developer | Java Enthusiast
 ## 📫 Connect With Me
 
 - GitHub: github.com/Yadhukrishna07
-- LinkedIn: linkedin.com/in/yadhu-krishna-u-s-26374728a<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/2939eeda-768c-43b8-a623-73917f49e6c2" />
+- LinkedIn: linkedin.com/in/yadhu-krishna-u-s-26374728a<img width="1918" height="1198" alt="image" 
