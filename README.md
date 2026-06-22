@@ -198,23 +198,6 @@ IT Department
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yadhukrishna07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhukrishna07&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/zigzag.svg" width="100%" alt="decorative zigzag divider"/>
-</div>
-
-<br>
-
 ## 🌐 Languages I Speak
 
 <div align="center">
