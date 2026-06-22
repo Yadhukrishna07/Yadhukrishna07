@@ -1,116 +1,179 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1800&pause=400&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=BIOS+v2.1+%E2%80%94+YADHU_OS;Initializing+kernel...;Loading+developer+profile..." alt="boot" />
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yadhu+Krishna;Full+Stack+Developer;Java+%26+MERN+Enthusiast;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yadhu-krishna-u-s-26374728a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yadhukrishna1417@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Yadhukrishna07">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Yadhukrishna07&style=for-the-badge&color=blueviolet" alt="profile views"/>
 
 </div>
 
-```
-[ OK ] Detected CPU: Full-Stack Engine (Java / MERN)
-[ OK ] Mounting filesystem: /home/yadhu
-[ OK ] Loading drivers: react.ko nodejs.ko mongodb.ko java.ko
-[ OK ] Checking memory: 4+ years experience .......... PASS
-[WARN] Sleep schedule .................................. FAIL
-[ OK ] Starting services: ambition.service, coffee.service
-[ OK ] Network up — uplink to github.com/Yadhukrishna07 established
+<br>
 
-BOOT COMPLETE — welcome, Yadhu Krishna U S.
+## 🚀 About Me
+
+```yaml
+name: Yadhu Krishna U S
+location: Chennai, India
+role: B.Tech Information Technology Student @ RMK Engineering College
+focus: Full Stack Development | Java | MERN Stack
+currently_learning: Spring Boot, DSA, Cloud Technologies
+fun_fact: I turn ☕ into 💻 (and occasionally into hackathon trophies 🏆)
 ```
+
+- 🎓 B.Tech IT Student at **RMK Engineering College**, Chennai 
+- 💻 Passionate about **Full Stack Development** & Software Engineering
+- 🛠️ Building real-world apps with **Java, React, Node.js & MongoDB**
+- 🏆 **Winner — Envision Hackathon**, SSN College of Engineering
+- 📝 Published author — research papers presented at **ISTE National Conference** & **Atlantis Press**
+- 🌱 Currently leveling up in **Spring Boot, Data Structures & Algorithms, and Cloud**
+- ⚡ Vice Chair, **IEEE Consumer Technology Society Student Chapter**
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### B.Tech IT @ RMK Engineering College · Chennai, India
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
 
-<a href="https://www.linkedin.com/in/yadhu-krishna-u-s-26374728a"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=39FF14"/></a>
-<a href="mailto:yadhukrishna1417@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=flat-square&logo=gmail&logoColor=39FF14"/></a>
-<a href="https://github.com/Yadhukrishna07"><img src="https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=39FF14"/></a>
-<img src="https://komarev.com/ghpvc/?username=Yadhukrishna07&style=flat-square&color=000000&label=VISITORS"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
-</div>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-<br>
-
-```
-> module load --name="stack" --verbose
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,mongodb,mysql,git,vscode&theme=dark"/>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" />
 
 </div>
 
-```
-> 10/10 modules loaded. 0 errors.
-```
-
 <br>
 
-```
-> ./run --highlights
-```
-
-| | |
-|---|---|
-| 🏆 | **Winner**, Envision Hackathon — SSN College of Engineering |
-| 📄 | Research published at **ISTE National Conference** & **Atlantis Press** |
-| 🎙️ | **Vice Chair**, IEEE Consumer Technology Society Student Chapter |
-| 🛠️ | Full-stack intern @ **NSIC** and **Prodigy Infotech** |
-| 📜 | Oracle AI Vector Search Certified · NPTEL IoT (Elite) |
-
-<br>
-
-```
-> ls ~/projects --sort=impact
-```
+## 💼 Experience
 
 <table width="100%">
-<tr><td width="33%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**`focusflow/`**
-Privacy-first adaptive learning platform — client-side encrypted, AI-personalized.
-`Next.js` `Convex` `Gemini API`
+### 🏢 Full Stack Intern
+**National Small Industries Corporation**, Chennai
+`Jun 2025`
 
-</td><td width="33%" valign="top">
+Worked across frontend & backend modules, gaining hands-on full-stack development exposure.
 
-**`realtime-chat/`**
-Live messaging app — JWT auth, sockets, persistent history.
-`React` `Node.js` `Socket.IO` `MongoDB`
+</td>
+<td width="50%" valign="top">
 
-</td><td width="33%" valign="top">
+### 🏢 Web Developer Intern
+**Prodigy Infotech**
+`Jun 2024 – Jul 2024`
 
-**`student-mgmt-sys/`**
-Student records & enrollment system with real-time UI.
-`HTML5` `CSS3` `Node.js` `MongoDB`
+Developed responsive web pages and enhanced UI components.
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br>
 
-```
-> fetch --live-stats
-```
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 FocusFlow</h3>
+      <p>Privacy-preserving, adaptive learning platform with end-to-end encrypted client-side storage and AI-driven personalization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Convex-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web%20Crypto-6E40C9?style=flat-square"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💬 Real-Time Chat App</h3>
+      <p>Full-stack live messaging app with JWT authentication, REST APIs, and persistent chat history.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📚 Student Management System</h3>
+      <p>Full-stack system to manage student records & course enrollments, with real-time UI updates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🏆 Achievements & Leadership
+
+- 🥇 **Winner**, Envision Hackathon — SSN Engineering College
+- 🎓 **Oracle AI Vector Search** Certification
+- 📜 **NPTEL** — Introduction to Internet of Things *(Elite)*
+- 🎤 Vice Chair, **IEEE Consumer Technology Society** Student Chapter
+- 🧑‍🏫 Class Committee Member, **IT Department**, RMK Engineering College
+
+<br>
+
+## 📝 Publications
+
+- 📄 **Interactive Recipe Recommendation Using AI and Machine Learning** — Presented at *ISTE National Conference (PIMERSAEFT '25)*
+- 📄 **An Automated Tool for Parsing of Social Media Feeds of the Suspect for the Ease of Investigation** — *Atlantis Press, 2023*
+
+<br>
+
+## 🌐 Languages I Speak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yadhukrishna07&show_icons=true&theme=dark&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=dark&background=00000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadhukrishna07&theme=react-dark&bg_color=00000000&color=39FF14&line=39FF14&point=ffffff&hide_border=true" width="97%"/>
+🗣️ **English** (Fluent) &nbsp;|&nbsp; 🗣️ **Tamil** (Fluent) &nbsp;|&nbsp; 🗣️ **Malayalam** (Fluent) &nbsp;|&nbsp; 🗣️ **Hindi** (Basic)
 
 </div>
 
 <br>
 
-```
-> shutdown -r "thanks for visiting" --connect
-```
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yadhu-krishna-u-s-26374728a"><img src="https://img.shields.io/badge/Let's%20Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
-<a href="mailto:yadhukrishna1417@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-39FF14?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+<a href="https://www.linkedin.com/in/yadhu-krishna-u-s-26374728a">
+  <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yadhukrishna1417@gmail.com">
+  <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-`process exited with code 0`
+<br><br>
+
+💡 *"Code, learn, repeat — one project at a time."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
