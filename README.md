@@ -134,60 +134,11 @@ Developed responsive web pages and enhanced UI components.
 
 ## 🏆 Achievements & Leadership
 
-
-|
-|
-|
-|
----
-|
----
-|
-|
- 🥇 
-|
-**
-Winner
-**
-, Envision Hackathon — SSN Engineering College 
-|
-|
- 🎓 
-|
-**
-Oracle AI Vector Search
-**
- Certification 
-|
-|
- 📜 
-|
-**
-NPTEL
-**
- — Introduction to Internet of Things 
-*
-(Elite)
-*
-|
-|
- 🎤 
-|
- Vice Chair, 
-**
-IEEE Consumer Technology Society
-**
- Student Chapter 
-|
-|
- 🧑‍🏫 
-|
- Class Committee Member, 
-**
-IT Department
-**
-, RMK Engineering College 
-|
+- 🥇 **Winner**, Envision Hackathon — SSN Engineering College
+- 🎓 **Oracle AI Vector Search** Certification
+- 📜 **NPTEL** — Introduction to Internet of Things *(Elite)*
+- 🎤 Vice Chair, **IEEE Consumer Technology Society** Student Chapter
+- 🧑‍🏫 Class Committee Member, **IT Department**, RMK Engineering College
 
 <br>
 
