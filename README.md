@@ -159,11 +159,6 @@ Developed responsive web pages and enhanced UI components.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/zigzag.svg" width="100%" alt="decorative zigzag divider"/>
-</div>
-
 <br>
 
 ## 🌐 Languages I Speak
