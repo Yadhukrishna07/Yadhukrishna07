@@ -134,13 +134,60 @@ Developed responsive web pages and enhanced UI components.
 
 ## 🏆 Achievements & Leadership
 
-| | |
-|---|---|
-| 🥇 | **Winner**, Envision Hackathon — SSN Engineering College |
-| 🎓 | **Oracle AI Vector Search** Certification |
-| 📜 | **NPTEL** — Introduction to Internet of Things *(Elite)* |
-| 🎤 | Vice Chair, **IEEE Consumer Technology Society** Student Chapter |
-| 🧑‍🏫 | Class Committee Member, **IT Department**, RMK Engineering College |
+
+|
+|
+|
+|
+---
+|
+---
+|
+|
+ 🥇 
+|
+**
+Winner
+**
+, Envision Hackathon — SSN Engineering College 
+|
+|
+ 🎓 
+|
+**
+Oracle AI Vector Search
+**
+ Certification 
+|
+|
+ 📜 
+|
+**
+NPTEL
+**
+ — Introduction to Internet of Things 
+*
+(Elite)
+*
+|
+|
+ 🎤 
+|
+ Vice Chair, 
+**
+IEEE Consumer Technology Society
+**
+ Student Chapter 
+|
+|
+ 🧑‍🏫 
+|
+ Class Committee Member, 
+**
+IT Department
+**
+, RMK Engineering College 
+|
 
 <br>
 
@@ -148,6 +195,23 @@ Developed responsive web pages and enhanced UI components.
 
 - 📄 **Interactive Recipe Recommendation Using AI and Machine Learning** — Presented at *ISTE National Conference (PIMERSAEFT '25)*
 - 📄 **An Automated Tool for Parsing of Social Media Feeds of the Suspect for the Ease of Investigation** — *Atlantis Press, 2023*
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yadhukrishna07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhukrishna07&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/zigzag.svg" width="100%" alt="decorative zigzag divider"/>
+</div>
 
 <br>
 
