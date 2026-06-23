@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yadhu+Krishna;Full+Stack+Developer;Java+%26+MERN+Enthusiast;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yadhu%20Krishna%20U%20S!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yadhu-krishna-u-s-26374728a">
