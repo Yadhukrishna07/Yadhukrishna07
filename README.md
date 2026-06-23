@@ -184,7 +184,7 @@ Developed responsive web pages and enhanced UI components.
 
 <br><br>
 
-💡 *"Code, learn, repeat — one project at a time."*
+💡 *"Code, learn, repeat — one project at a time repeat."*
 
 </div>
 
