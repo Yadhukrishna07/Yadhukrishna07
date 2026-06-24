@@ -27,14 +27,14 @@
 
 ## 🚀 About Me
 
-\```yaml
+```yaml
 name: Yadhu Krishna U S
 location: Chennai, India
 role: B.Tech Information Technology Student @ RMK Engineering College
 focus: Full Stack Development | Java | MERN Stack
 currently_learning: Spring Boot, DSA, Cloud Technologies
 fun_fact: I turn ☕ into 💻 (and occasionally into hackathon trophies 🏆)
-\```
+```
 
 - 🎓 B.Tech IT Student at **RMK Engineering College**, Chennai *(CGPA: 7.58)*
 - 💻 Passionate about **Full Stack Development** & Software Engineering
@@ -146,77 +146,6 @@ Developed responsive web pages and enhanced UI components.
 
 - 📄 **Interactive Recipe Recommendation Using AI and Machine Learning** — Presented at *ISTE National Conference (PIMERSAEFT '25)*
 - 📄 **An Automated Tool for Parsing of Social Media Feeds of the Suspect for the Ease of Investigation** — *Atlantis Press, 2023*
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yadhukrishna07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhukrishna07&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadhukrishna07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yadhukrishna07&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
-</div>
-
-<details>
-<summary>🐍 Want the animated contribution snake too? (click to expand setup steps)</summary>
-<br>
-
-This effect needs a one-time GitHub Action (it can't be added as a plain image link):
-
-1. In this repo, add a workflow file at `.github/workflows/snake.yml`:
-
-\```yaml
-name: generate snake animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Yadhukrishna07
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-\```
-
-2. Commit, go to the **Actions** tab, and click **Run workflow** once.
-3. Once it succeeds, an `output` branch appears with the SVGs. Then add this to your README:
-
-\```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/github-snake.svg" width="100%"/>
-</picture>
-\```
-
-</details>
 
 <br>
 
