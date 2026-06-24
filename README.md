@@ -27,14 +27,14 @@
 
 ## 🚀 About Me
 
-```yaml
+\```yaml
 name: Yadhu Krishna U S
 location: Chennai, India
 role: B.Tech Information Technology Student @ RMK Engineering College
 focus: Full Stack Development | Java | MERN Stack
 currently_learning: Spring Boot, DSA, Cloud Technologies
 fun_fact: I turn ☕ into 💻 (and occasionally into hackathon trophies 🏆)
-```
+\```
 
 - 🎓 B.Tech IT Student at **RMK Engineering College**, Chennai *(CGPA: 7.58)*
 - 💻 Passionate about **Full Stack Development** & Software Engineering
@@ -157,7 +157,7 @@ Developed responsive web pages and enhanced UI components.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -165,62 +165,58 @@ Developed responsive web pages and enhanced UI components.
 </div>
 
 <div align="center">
-
-<!--
-  🐍 Animated contribution snake — one-time setup required:
-  1. Create a repo named exactly "Yadhukrishna07" (same as your username) if you don't have one already.
-  2. Add a workflow file at .github/workflows/snake.yml with:
-
-     name: generate snake animation
-     on:
-       schedule:
-         - cron: "0 */12 * * *"
-       workflow_dispatch:
-       push:
-         branches:
-           - main
-     jobs:
-       generate:
-         permissions:
-           contents: write
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: Yadhukrishna07
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-             id: snake
-           - uses: actions/checkout@v4
-           - run: |
-               mkdir -p dist
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: Yadhukrishna07
-               outputs: |
-                 dist/github-snake.svg
-                 dist/github-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Run the workflow once manually (Actions tab → Run workflow).
-  4. It creates an "output" branch with the SVGs — the <picture> tag below will then render automatically.
--->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yadhukrishna07/Yadhukrishna07/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yadhukrishna07/Yadhukrishna07/blob/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://github.com/Yadhukrishna07/Yadhukrishna07/blob/output/github-snake.svg" width="100%"/>
-  </picture>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Yadhukrishna07&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yadhukrishna07&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+<details>
+<summary>🐍 Want the animated contribution snake too? (click to expand setup steps)</summary>
+<br>
+
+This effect needs a one-time GitHub Action (it can't be added as a plain image link):
+
+1. In this repo, add a workflow file at `.github/workflows/snake.yml`:
+
+\```yaml
+name: generate snake animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Yadhukrishna07
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+\```
+
+2. Commit, go to the **Actions** tab, and click **Run workflow** once.
+3. Once it succeeds, an `output` branch appears with the SVGs. Then add this to your README:
+
+\```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/github-snake.svg" width="100%"/>
+</picture>
+\```
+
+</details>
 
 <br>
 
