@@ -159,6 +159,69 @@ Developed responsive web pages and enhanced UI components.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadhukrishna07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+
+<!--
+  🐍 Animated contribution snake — one-time setup required:
+  1. Create a repo named exactly "Yadhukrishna07" (same as your username) if you don't have one already.
+  2. Add a workflow file at .github/workflows/snake.yml with:
+
+     name: generate snake animation
+     on:
+       schedule:
+         - cron: "0 */12 * * *"
+       workflow_dispatch:
+       push:
+         branches:
+           - main
+     jobs:
+       generate:
+         permissions:
+           contents: write
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: Yadhukrishna07
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+             id: snake
+           - uses: actions/checkout@v4
+           - run: |
+               mkdir -p dist
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: Yadhukrishna07
+               outputs: |
+                 dist/github-snake.svg
+                 dist/github-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Run the workflow once manually (Actions tab → Run workflow).
+  4. It creates an "output" branch with the SVGs — the <picture> tag below will then render automatically.
+-->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yadhukrishna07/Yadhukrishna07/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yadhukrishna07/Yadhukrishna07/blob/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://github.com/Yadhukrishna07/Yadhukrishna07/blob/output/github-snake.svg" width="100%"/>
+  </picture>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yadhukrishna07&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
 <br>
 
 ## 🌐 Languages I Speak
