@@ -65,18 +65,6 @@ fun_fact: I turn ☕ into 💻 (and occasionally into hackathon trophies 🏆)
 </div>
 
 <br>
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yadhukrishna07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhukrishna07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="40%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadhukrishna07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
-
-</div>
 
 ## 💼 Experience
 
@@ -170,6 +158,19 @@ Developed responsive web pages and enhanced UI components.
 </div>
 
 <br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yadhukrishna07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhukrishna07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="40%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadhukrishna07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+
+</div>
 
 ## 📫 Let's Connect
 
