@@ -86,6 +86,15 @@
 
 ---
 
+## ◈ Certifications
+
+```text
+  ◆  Oracle AI Vector Search Certification
+  ◆  NPTEL: Introduction to Internet of Things (Elite)
+```
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/pacman-contribution-graph.svg">
