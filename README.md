@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="./assets/banner.gif" width="70%" alt="Yadhu Krishna Banner"/>
+</p>
 
 <h3>YADHU KRISHNA U S</h3>
 <p><code>full-stack developer</code> · <code>java</code> · <code>problem solver</code></p>
