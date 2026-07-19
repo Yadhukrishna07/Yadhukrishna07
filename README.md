@@ -1,20 +1,21 @@
-<p align="center">
-  <img src="./assets/banner.gif" width="70%" alt="Yadhu Krishna Banner"/>
-</p
 <div align="center">
-<img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/yadhu_krishna_name_grid.svg"/>
-</div>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=500&lines=root%40yadhu%3A~%24+whoami;full_stack_developer;root%40yadhu%3A~%24+status;compiling+ideas+into+production+code" />
+<img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/yadhu_krishna_name_grid.svg"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=550&lines=root%40yadhu%3A~%24+whoami;full_stack_developer;root%40yadhu%3A~%24+status;compiling+ideas+into+production+code;root%40yadhu%3A~%24+uptime;always+learning%2C+always+shipping" />
 
 <br><br>
 
-<a href="#"><img src="https://img.shields.io/badge/-PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=6EE7B7" /></a>
-<a href="https://linkedin.com/in/yadhu-krishna-u-s-26374728a"><img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=6EE7B7" /></a>
-<a href="mailto:yadhukrishna1417@gmail.com"><img src="https://img.shields.io/badge/-MAIL-0d1117?style=flat-square&logo=gmail&logoColor=6EE7B7" /></a>
-<a href="./Resume.pdf"><img src="https://img.shields.io/badge/-RESUME-0d1117?style=flat-square&logo=readdotcv&logoColor=6EE7B7" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=6EE7B7" /></a>
+<a href="https://linkedin.com/in/yadhu-krishna-u-s-26374728a"><img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=6EE7B7" /></a>
+<a href="mailto:yadhukrishna1417@gmail.com"><img src="https://img.shields.io/badge/-MAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=6EE7B7" /></a>
+<a href="./Resume.pdf"><img src="https://img.shields.io/badge/-RESUME-0d1117?style=for-the-badge&logo=readdotcv&logoColor=6EE7B7" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Yadhukrishna07&label=visitors&color=0d1117&style=flat-square" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Yadhukrishna07&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Yadhukrishna07?label=FOLLOWERS&style=for-the-badge&color=0d1117&logo=github&logoColor=6EE7B7"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-0d1117?style=for-the-badge&logo=handshake&logoColor=6EE7B7"/>
 
 </div>
 
@@ -25,17 +26,32 @@
 ```
 
 <table>
-<tr><td width="36"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="28"/></td><td><code>education</code></td><td>b.tech information technology · rmk engineering college · cgpa 7.58</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlemaps&logoColor=6EE7B7" width="28"/></td><td><code>location</code></td><td>chennai, india</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=react&logoColor=6EE7B7" width="28"/></td><td><code>focus</code></td><td>react · node · java · ai-integrated web apps</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=quantconnect&logoColor=6EE7B7" width="28"/></td><td><code>role</code></td><td>full stack developer, fresher</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=quicklook&logoColor=6EE7B7" width="28"/></td><td><code>quote</code></td><td>"first, solve the problem. then, write the code."</td></tr>
+<tr><td width="42"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="30"/></td><td width="110"><code>education</code></td><td>b.tech information technology · rmk engineering college · cgpa 7.58</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlemaps&logoColor=6EE7B7" width="30"/></td><td><code>location</code></td><td>chennai, india</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=react&logoColor=6EE7B7" width="30"/></td><td><code>focus</code></td><td>react · node · java · ai-integrated web apps</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=gnubash&logoColor=6EE7B7" width="30"/></td><td><code>role</code></td><td>full stack developer, fresher</td></tr>
 </table>
+
+> *"first, solve the problem. then, write the code."*
 
 <br>
 
 ```
-[ 02 ]  stack
+[ 02 ]  currently
+```
+
+<div align="center">
+
+![Building](https://img.shields.io/badge/BUILDING-AI%20powered%20web%20apps-1a1a1a?style=for-the-badge&labelColor=0d1117&color=6EE7B7)
+![Learning](https://img.shields.io/badge/LEARNING-system%20design-1a1a1a?style=for-the-badge&labelColor=0d1117&color6EE7B7&color=6EE7B7)
+![Ask](https://img.shields.io/badge/ASK%20ME-react%20%7C%20node%20%7C%20java-1a1a1a?style=for-the-badge&labelColor=0d1117&color=6EE7B7)
+
+</div>
+
+<br>
+
+```
+[ 03 ]  stack
 ```
 
 <div align="center">
@@ -45,7 +61,7 @@
 <br>
 
 ```
-[ 03 ]  activity
+[ 04 ]  activity
 ```
 
 <div align="center">
@@ -57,39 +73,49 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yadhukrishna07&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=4&row=2"/>
+</div>
+
 <br>
 
 ```
-[ 04 ]  projects
+[ 05 ]  projects
 ```
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-000?style=flat-square&logo=letsencrypt&logoColor=6EE7B7" width="28"/> **focusflow**
+<img src="https://img.shields.io/badge/-000?style=flat-square&logo=letsencrypt&logoColor=6EE7B7" width="30"/> **focusflow**
 
 encrypted, ai-personalized productivity app
 
-<img src="https://skillicons.dev/icons?i=nextjs,gemini" height="24"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="26"/>&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="26"/>
+
+`next.js` `convex` `gemini api` `web crypto api`
 
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-000?style=flat-square&logo=googleearth&logoColor=6EE7B7" width="28"/> **weather-app**
+<img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlemaps&logoColor=6EE7B7" width="30"/> **weather-app**
 
 real-time spa with live geocoded weather data
 
-<img src="https://skillicons.dev/icons?i=react,ts" height="24"/>
+<img src="https://skillicons.dev/icons?i=react" height="26"/>&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="26"/>
+
+`react` `typescript` `html` `css`
 
 </td>
 <td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-000?style=flat-square&logo=googleclassroom&logoColor=6EE7B7" width="28"/> **student-management**
+<img src="https://img.shields.io/badge/-000?style=flat-square&logo=googleclassroom&logoColor=6EE7B7" width="30"/> **student-management**
 
 full-stack student records & enrollment system
 
-<img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb" height="24"/>
+<img src="https://skillicons.dev/icons?i=angular" height="26"/>&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" height="26"/>
+
+`angular` `node.js` `mongodb`
 
 </td>
 </tr>
@@ -98,34 +124,39 @@ full-stack student records & enrollment system
 <br>
 
 ```
-[ 05 ]  experience
+[ 06 ]  experience
 ```
 
 <table>
-<tr><td width="36"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=briefcase&logoColor=6EE7B7" width="28"/></td><td><code>jun 2025</code></td><td><b>full stack intern</b> · national small industries corporation, chennai<br/><sub>built and debugged frontend/backend modules in a production workflow</sub></td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=briefcase&logoColor=6EE7B7" width="28"/></td><td><code>jun 2024</code></td><td><b>web developer intern</b> · prodigy infotech<br/><sub>designed responsive pages, refined ui components across devices</sub></td></tr>
+<tr><td width="42"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=workplace&logoColor=6EE7B7" width="30"/></td><td width="100"><code>jun 2025</code></td><td><b>full stack intern</b> · national small industries corporation, chennai<br/><sub>built and debugged frontend/backend modules in a production workflow</sub></td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=workplace&logoColor=6EE7B7" width="30"/></td><td><code>jun 2024</code></td><td><b>web developer intern</b> · prodigy infotech<br/><sub>designed responsive pages, refined ui components across devices</sub></td></tr>
 </table>
 
 <br>
 
 ```
-[ 06 ]  credentials
+[ 07 ]  credentials
 ```
 
+<div align="center">
+
+![Oracle](https://img.shields.io/badge/ORACLE-AI%20Vector%20Search-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-IoT%20Elite-1a1a1a?style=for-the-badge&labelColor=0d1117&color=6EE7B7)
+![Winner](https://img.shields.io/badge/ENVISION%20HACKATHON-Winner-1a1a1a?style=for-the-badge&labelColor=0d1117&color=FFD60A)
+
+</div>
+
 <table>
-<tr><td width="36"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=oracle&logoColor=F80000" width="28"/></td><td>oracle ai vector search — <b>certified</b></td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=nptel&logoColor=6EE7B7" width="28"/></td><td>nptel introduction to iot — <b>elite</b></td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=trophy&logoColor=FFD60A" width="28"/></td><td>envision hackathon, ssn engineering college — <b>winner</b></td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=ieee&logoColor=6EE7B7" width="28"/></td><td>vice chair — ieee consumer technology society student chapter</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="28"/></td><td>committee member — it department class committee</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=readdotcv&logoColor=6EE7B7" width="28"/></td><td>published — interactive recipe recommendation using ai and ml, iste national conference</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=readdotcv&logoColor=6EE7B7" width="28"/></td><td>published — automated social media feed parsing tool, atlantis press 2023</td></tr>
+<tr><td width="42"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=ieee&logoColor=6EE7B7" width="30"/></td><td>vice chair — ieee consumer technology society student chapter</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="30"/></td><td>committee member — it department class committee</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=readdotcv&logoColor=6EE7B7" width="30"/></td><td>published — interactive recipe recommendation using ai and ml, iste national conference</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=readdotcv&logoColor=6EE7B7" width="30"/></td><td>published — automated social media feed parsing tool, atlantis press 2023</td></tr>
 </table>
 
 <br>
 
 ```
-[ 07 ]  contributions
+[ 08 ]  contributions
 ```
 
 <div align="center">
