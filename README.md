@@ -24,22 +24,7 @@
 
 <br>
 
-```
-[ 01 ]  about
-```
 
-<table>
-<tr><td width="42"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="30"/></td><td width="110"><code>education</code></td><td>b.tech information technology · rmk engineering college · cgpa 7.58</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlemaps&logoColor=6EE7B7" width="30"/></td><td><code>location</code></td><td>chennai, india</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=react&logoColor=6EE7B7" width="30"/></td><td><code>focus</code></td><td>react · node · java · ai-integrated web apps</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=gnubash&logoColor=6EE7B7" width="30"/></td><td><code>role</code></td><td>full stack developer, fresher</td></tr>
-</table>
-
-> *"first, solve the problem. then, write the code."*
-
-<br>
-
-```
 [ 02 ]  currently
 ```
 
