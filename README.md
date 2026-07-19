@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.gif" width="70%" alt="Yadhu Krishna Banner"/>
+</p
 
 <img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/yadhu_krishna_name_grid.svg"/>
 
