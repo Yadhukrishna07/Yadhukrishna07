@@ -1,12 +1,6 @@
 <div align="center">
-<p align="center">
-  <img src="./assets/banner.gif" width="70%" alt="Yadhu Krishna Banner"/>
-</p>
-  
-<div align="center">
+
 <img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/yadhu_krishna_name_grid.svg"/>
-</div>
-<p><code>full-stack developer</code> · <code>java</code> · <code>problem solver</code></p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=500&lines=root%40yadhu%3A~%24+whoami;full_stack_developer;root%40yadhu%3A~%24+status;compiling+ideas+into+production+code" />
 
@@ -27,14 +21,13 @@
 [ 01 ]  about
 ```
 
-```
-name        yadhu krishna u s
-role        full stack developer, fresher
-education   b.tech information technology · rmk engineering college · cgpa 7.58
-location    chennai, india
-focus       react · node · java · ai-integrated web apps
-quote       "first, solve the problem. then, write the code."
-```
+<table>
+<tr><td width="36"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="28"/></td><td><code>education</code></td><td>b.tech information technology · rmk engineering college · cgpa 7.58</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlemaps&logoColor=6EE7B7" width="28"/></td><td><code>location</code></td><td>chennai, india</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=react&logoColor=6EE7B7" width="28"/></td><td><code>focus</code></td><td>react · node · java · ai-integrated web apps</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=quantconnect&logoColor=6EE7B7" width="28"/></td><td><code>role</code></td><td>full stack developer, fresher</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=quicklook&logoColor=6EE7B7" width="28"/></td><td><code>quote</code></td><td>"first, solve the problem. then, write the code."</td></tr>
+</table>
 
 <br>
 
@@ -71,23 +64,29 @@ quote       "first, solve the problem. then, write the code."
 <tr>
 <td width="33%" valign="top">
 
-**focusflow**
+<img src="https://img.shields.io/badge/-000?style=flat-square&logo=letsencrypt&logoColor=6EE7B7" width="28"/> **focusflow**
+
 encrypted, ai-personalized productivity app
-`next.js` `convex` `gemini api`
+
+<img src="https://skillicons.dev/icons?i=nextjs,gemini" height="24"/>
 
 </td>
 <td width="33%" valign="top">
 
-**weather-app**
+<img src="https://img.shields.io/badge/-000?style=flat-square&logo=googleearth&logoColor=6EE7B7" width="28"/> **weather-app**
+
 real-time spa with live geocoded weather data
-`react` `typescript`
+
+<img src="https://skillicons.dev/icons?i=react,ts" height="24"/>
 
 </td>
 <td width="33%" valign="top">
 
-**student-management**
+<img src="https://img.shields.io/badge/-000?style=flat-square&logo=googleclassroom&logoColor=6EE7B7" width="28"/> **student-management**
+
 full-stack student records & enrollment system
-`angular` `node.js` `mongodb`
+
+<img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb" height="24"/>
 
 </td>
 </tr>
@@ -99,13 +98,10 @@ full-stack student records & enrollment system
 [ 05 ]  experience
 ```
 
-```
-jun 2025    full stack intern · national small industries corporation, chennai
-            built and debugged frontend/backend modules in a production workflow
-
-jun 2024    web developer intern · prodigy infotech
-            designed responsive pages, refined ui components across devices
-```
+<table>
+<tr><td width="36"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=briefcase&logoColor=6EE7B7" width="28"/></td><td><code>jun 2025</code></td><td><b>full stack intern</b> · national small industries corporation, chennai<br/><sub>built and debugged frontend/backend modules in a production workflow</sub></td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=briefcase&logoColor=6EE7B7" width="28"/></td><td><code>jun 2024</code></td><td><b>web developer intern</b> · prodigy infotech<br/><sub>designed responsive pages, refined ui components across devices</sub></td></tr>
+</table>
 
 <br>
 
@@ -113,15 +109,15 @@ jun 2024    web developer intern · prodigy infotech
 [ 06 ]  credentials
 ```
 
-```
-certified    oracle ai vector search
-certified    nptel — introduction to iot (elite)
-awarded      envision hackathon, ssn engineering college — winner
-role         vice chair, ieee consumer technology society student chapter
-role         class committee member, it department
-published    interactive recipe recommendation using ai and ml — iste national conference
-published    automated social media feed parsing tool — atlantis press, 2023
-```
+<table>
+<tr><td width="36"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=oracle&logoColor=F80000" width="28"/></td><td>oracle ai vector search — <b>certified</b></td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=nptel&logoColor=6EE7B7" width="28"/></td><td>nptel introduction to iot — <b>elite</b></td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=trophy&logoColor=FFD60A" width="28"/></td><td>envision hackathon, ssn engineering college — <b>winner</b></td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=ieee&logoColor=6EE7B7" width="28"/></td><td>vice chair — ieee consumer technology society student chapter</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="28"/></td><td>committee member — it department class committee</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=readdotcv&logoColor=6EE7B7" width="28"/></td><td>published — interactive recipe recommendation using ai and ml, iste national conference</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=readdotcv&logoColor=6EE7B7" width="28"/></td><td>published — automated social media feed parsing tool, atlantis press 2023</td></tr>
+</table>
 
 <br>
 
