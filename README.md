@@ -1,125 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yadhu%20Krishna%20U%20S&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Java%20Enthusiast%20•%20Problem%20Solver&descAlignY=55&descSize=18"/>
+<pre>
+ _____ __  __ _____ _   _   _____ ____
+/  ___|  \/  |___  | | | | / ____/ ___|
+\ `--.| .  . |  / /| |_| || (___\ \__ \
+ `--. \ |\/| | / / |  _  | \___ \ __) |
+/\__/ / |  | |/ /__| | | | ____) |___/
+\____/\_|  |_/\_____/_/ |_/|_____/
+</pre>
 
-<br>
+<h3>YADHU KRISHNA U S</h3>
+<p><code>full-stack developer</code> · <code>java</code> · <code>problem solver</code></p>
 
-<a href="https://github.com/Yadhukrishna07">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+%F0%9F%9A%80;Java+%2B+React+%2B+Node.js+Developer;Turning+ideas+into+code+%E2%9A%A1;Always+learning%2C+always+building" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=500&lines=root%40yadhu%3A~%24+whoami;full_stack_developer;root%40yadhu%3A~%24+status;compiling+ideas+into+production+code" />
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View_Site-F72585?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-4361EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadhu-krishna-u-s-26374728a)
-[![Gmail](https://img.shields.io/badge/GMAIL-Say_Hi-EF476F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadhukrishna1417@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-Download-06D6A0?style=for-the-badge&logo=readdotcv&logoColor=white)](./Resume.pdf)
+<a href="#"><img src="https://img.shields.io/badge/-PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=6EE7B7" /></a>
+<a href="https://linkedin.com/in/yadhu-krishna-u-s-26374728a"><img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=6EE7B7" /></a>
+<a href="mailto:yadhukrishna1417@gmail.com"><img src="https://img.shields.io/badge/-MAIL-0d1117?style=flat-square&logo=gmail&logoColor=6EE7B7" /></a>
+<a href="./Resume.pdf"><img src="https://img.shields.io/badge/-RESUME-0d1117?style=flat-square&logo=readdotcv&logoColor=6EE7B7" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yadhukrishna07&label=PROFILE+VIEWS&color=7209B7&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Yadhukrishna07&label=visitors&color=0d1117&style=flat-square" />
 
 </div>
 
 <br>
 
-## 🚀 About Me
-
-```yaml
-name: Yadhu Krishna U S
-role: Full Stack Developer (Fresher)
-education: B.Tech Information Technology @ RMK Engineering College, Chennai
-cgpa: 7.58
-location: Chennai, India
-currently_exploring: AI-powered full stack applications
-fun_fact: "First, solve the problem. Then, write the code."
+```
+[ 01 ]  about
 ```
 
-Enthusiastic and driven fresher with hands-on experience in web development using **HTML, CSS, and React**, and a strong footing in **Java** and problem-solving. Passionate about contributing to impactful, real-world projects.
+```
+name        yadhu krishna u s
+role        full stack developer, fresher
+education   b.tech information technology · rmk engineering college · cgpa 7.58
+location    chennai, india
+focus       react · node · java · ai-integrated web apps
+quote       "first, solve the problem. then, write the code."
+```
 
 <br>
 
-## 🛠️ Tech Stack
+```
+[ 02 ]  stack
+```
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,angular,html,css,nodejs,mongodb,mysql,git,github,figma&theme=dark&perline=7" />
-
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+```
+[ 03 ]  activity
+```
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yadhukrishna07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F72585&icon_color=06D6A0&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhukrishna07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F72585&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&theme=radical&hide_border=true&background=0d1117&ring=F72585&fire=06D6A0&currStreakLabel=F72585"/>
-
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Yadhukrishna07&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=6EE7B7&text_color=8b949e&title_color=6EE7B7"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhukrishna07&layout=compact&hide_border=true&hide_title=true&bg_color=0d1117&text_color=8b949e&title_color=6EE7B7"/>
 </div>
-
-<br>
-
-## 🔥 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Yadhukrishna07">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yadhukrishna07&repo=focusflow&theme=radical&hide_border=true&bg_color=0d1117&title_color=F72585&icon_color=06D6A0&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Yadhukrishna07">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yadhukrishna07&repo=weather-app&theme=radical&hide_border=true&bg_color=0d1117&title_color=F72585&icon_color=06D6A0&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Yadhukrishna07">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yadhukrishna07&repo=student-management-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=F72585&icon_color=06D6A0&text_color=c9d1d9"/>
-</a>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadhukrishna07&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
 </div>
-
-| Project | Highlights | Tech |
-|---|---|---|
-| 🔐 **FocusFlow** | End-to-end encrypted, AI-personalized productivity app | `Next.js` `Convex` `Gemini API` `Web Crypto API` |
-| ⛅ **Weather App** | Real-time SPA with geocoding + live weather data | `React` `TypeScript` `HTML` `CSS` |
-| 🎓 **Student Management System** | Full-stack system for records & enrollment tracking | `Angular` `Node.js` `MongoDB` |
 
 <br>
 
-## 💼 Experience
+```
+[ 04 ]  projects
+```
 
 <table>
-<tr><td width="140"><b>Jun 2025</b></td><td><b>Full Stack Intern</b> — National Small Industries Corporation, Chennai<br/><sub>Built & debugged frontend/backend modules, hands-on with production-level workflows.</sub></td></tr>
-<tr><td><b>Jun 2024</b></td><td><b>Web Developer Intern</b> — Prodigy Infotech<br/><sub>Designed responsive pages & enhanced UI components across devices.</sub></td></tr>
+<tr>
+<td width="33%" valign="top">
+
+**focusflow**
+encrypted, ai-personalized productivity app
+`next.js` `convex` `gemini api`
+
+</td>
+<td width="33%" valign="top">
+
+**weather-app**
+real-time spa with live geocoded weather data
+`react` `typescript`
+
+</td>
+<td width="33%" valign="top">
+
+**student-management**
+full-stack student records & enrollment system
+`angular` `node.js` `mongodb`
+
+</td>
+</tr>
 </table>
 
 <br>
 
-## 🏆 Certifications & Achievements
+```
+[ 05 ]  experience
+```
 
-![Oracle](https://img.shields.io/badge/Oracle-AI_Vector_Search_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-IoT_Elite-4361EE?style=for-the-badge&logo=nptel&logoColor=white)
-![Hackathon](https://img.shields.io/badge/Envision_Hackathon-Winner-FFD60A?style=for-the-badge&logo=trophy&logoColor=black)
+```
+jun 2025    full stack intern · national small industries corporation, chennai
+            built and debugged frontend/backend modules in a production workflow
 
-- 🎙️ **Vice Chair** — IEEE Consumer Technology Society Student Chapter
-- 🧑‍🤝‍🧑 **Committee Member** — IT Department Class Committee
-- 📄 *Interactive Recipe Recommendation Using AI and Machine Learning* — ISTE National Conference
-- 📄 *Automated Social Media Feed Parsing Tool for Investigation Ease* — Atlantis Press, 2023
+jun 2024    web developer intern · prodigy infotech
+            designed responsive pages, refined ui components across devices
+```
 
 <br>
 
-## 📈 Contribution Graph
+```
+[ 06 ]  credentials
+```
+
+```
+certified    oracle ai vector search
+certified    nptel — introduction to iot (elite)
+awarded      envision hackathon, ssn engineering college — winner
+role         vice chair, ieee consumer technology society student chapter
+role         class committee member, it department
+published    interactive recipe recommendation using ai and ml — iste national conference
+published    automated social media feed parsing tool — atlantis press, 2023
+```
+
+<br>
+
+```
+[ 07 ]  contributions
+```
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/pacman-contribution-graph.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/pacman-contribution-graph.svg">
 </picture>
-
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<div align="center">
+<sub>exit code 0 · thanks for stopping by</sub>
 </div>
