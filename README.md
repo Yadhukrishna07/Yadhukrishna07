@@ -2,6 +2,10 @@
 <p align="center">
   <img src="./assets/banner.gif" width="70%" alt="Yadhu Krishna Banner"/>
 </p>
+  
+<div align="center">
+<img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/yadhu_krishna_name_grid.svg" width="100%"/>
+</div>
 
 <h3>YADHU KRISHNA U S</h3>
 <p><code>full-stack developer</code> · <code>java</code> · <code>problem solver</code></p>
