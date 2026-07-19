@@ -4,7 +4,7 @@
 </p>
   
 <div align="center">
-<img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/yadhu_krishna_name_grid.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/yadhu_krishna_name_grid.svg"/>
 </div>
 
 <h3>YADHU KRISHNA U S</h3>
