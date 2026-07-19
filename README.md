@@ -1,44 +1,26 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.gif" width="70%" alt="Yadhu Krishna Banner"/>
+</p>
 
-<br>
-
-# Yadhu Krishna U S
-
-### Full Stack Developer • Java Enthusiast • Problem Solver
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadhukrishna07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yadhukrishna07&label=PROFILE+VIEWS&color=6c757d&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadhu-krishna-u-s-26374728a)
-[![Gmail](https://img.shields.io/badge/GMAIL-yadhukrishna1417-e34133?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadhukrishna1417@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-Yadhukrishna07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yadhukrishna07)
-
-<br>
-
-### *First, solve the problem. Then, write the code.*
-
-<br>
+<h1 align="center">Hey 👋 I'm Yadhu Krishna U S</h1>
+<h3 align="center">Full Stack Developer • Java Enthusiast • Problem Solver</h3>
 
 ---
-
-</div>
 
 ## ◈ About Me
 
 ```text
-╔═══════════════════════════════════════════════════════════════════╗
-║  Name     →  Yadhu Krishna U S                                    ║
-║  Course   →  B.Tech Information Technology                        ║
-║  College  →  RMK Engineering College, Chennai                     ║
-║  Passion  →  Full Stack Development & Problem Solving             ║
-║  Base     →  Chennai, India                                       ║
-║  Mission  →  Always learning, evolving, and building new systems  ║
-╚═══════════════════════════════════════════════════════════════════╝
+                                ╔═══════════════════════════════════════════════════════════════════╗
+                                ║  Name     →  Yadhu Krishna U S                                    ║
+                                ║  Course   →  B.Tech Information Technology                        ║
+                                ║  College  →  RMK Engineering College, Chennai                     ║
+                                ║  Passion  →  Full Stack Development & Problem Solving             ║
+                                ║  Base     →  Chennai, India                                        ║
+                                ║  Mission  →  Always learning, evolving, and building new systems  ║
+                                ╚═══════════════════════════════════════════════════════════════════╝
 ```
+> *"First, solve the problem. Then, write the code."*
+<br/>
 
 ---
 
@@ -78,17 +60,19 @@
 
 </div>
 
+<br/>
+
 ---
 
 ## ◈ What I Build
 
 ```text
-╔═════════════════════════════════════════════════════════════════════╗
-║  ◆  FocusFlow                    →  Encrypted, AI-personalized app  ║
-║  ◆  Weather Application          →  Real-time data with Angular     ║
-║  ◆  Student Management System    →  Full-stack MERN application     ║
-║  ◆  Open to Collaborate          →  Innovative Software Projects    ║
-╚═════════════════════════════════════════════════════════════════════╝
+                                ╔═════════════════════════════════════════════════════════════════════╗
+                                ║  ◆  FocusFlow                    →  Encrypted, AI-personalized app  ║
+                                ║  ◆  Weather Application          →  Real-time data with Angular     ║
+                                ║  ◆  Student Management System    →  Full-stack MERN application    ║
+                                ║  ◆  Open to Collaborate          →  Innovative Software Projects   ║
+                                ╚═════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -96,8 +80,8 @@
 ## ◈ Experience
 
 ```text
-◆  Full Stack Intern       →  National Small Industries Corporation, Chennai   (Jun 2025)
-◆  Web Developer Intern    →  Prodigy Infotech                                 (Jun 2024)
+  ◆  Full Stack Intern       →  National Small Industries Corporation, Chennai   (Jun 2025)
+  ◆  Web Developer Intern    →  Prodigy Infotech                                 (Jun 2024)
 ```
 
 ---
@@ -105,13 +89,11 @@
 ## ◈ Certifications
 
 ```text
-◆  Oracle AI Vector Search Certification
-◆  NPTEL: Introduction to Internet of Things (Elite)
+  ◆  Oracle AI Vector Search Certification
+  ◆  NPTEL: Introduction to Internet of Things (Elite)
 ```
 
 ---
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/pacman-contribution-graph-dark.svg">
@@ -119,14 +101,23 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
-
 ---
+
+## ◈ Connect
 
 <div align="center">
 
-```text
-◈  Built with Passion
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560&labelColor=0d0d1a)](https://linkedin.com/in/yadhu-krishna-u-s-26374728a)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_Out-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560&labelColor=0d0d1a)](mailto:yadhukrishna1417@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560&labelColor=0d0d1a)](https://github.com/Yadhukrishna07)
 
 </div>
+<br/>
+
+---
+
+```text
+  ◈  Built with Passion
+```
