@@ -1,14 +1,5 @@
 <div align="center">
 
-<pre>
- _____ __  __ _____ _   _   _____ ____
-/  ___|  \/  |___  | | | | / ____/ ___|
-\ `--.| .  . |  / /| |_| || (___\ \__ \
- `--. \ |\/| | / / |  _  | \___ \ __) |
-/\__/ / |  | |/ /__| | | | ____) |___/
-\____/\_|  |_/\_____/_/ |_/|_____/
-</pre>
-
 <h3>YADHU KRISHNA U S</h3>
 <p><code>full-stack developer</code> · <code>java</code> · <code>problem solver</code></p>
 
