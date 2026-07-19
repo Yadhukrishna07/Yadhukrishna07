@@ -6,8 +6,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Yadhukrishna07/Yadhukrishna07/main/yadhu_krishna_name_grid.svg"/>
 </div>
-
-<h3>YADHU KRISHNA U S</h3>
 <p><code>full-stack developer</code> · <code>java</code> · <code>problem solver</code></p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=500&lines=root%40yadhu%3A~%24+whoami;full_stack_developer;root%40yadhu%3A~%24+status;compiling+ideas+into+production+code" />
