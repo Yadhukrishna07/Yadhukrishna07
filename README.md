@@ -6,92 +6,72 @@
 <h3 align="center">Full Stack Developer • Java Enthusiast • Problem Solver</h3>
 
 ---
+<div align="center">
 
-## ◈ About Me
+<br>
 
-```text
-                                ╔═══════════════════════════════════════════════════════════════════╗
-                                ║  Name     →  Yadhu Krishna U S                                    ║
-                                ║  Course   →  B.Tech Information Technology                        ║
-                                ║  College  →  RMK Engineering College, Chennai                     ║
-                                ║  Passion  →  Full Stack Development & Problem Solving             ║
-                                ║  Base     →  Chennai, India                                        ║
-                                ║  Mission  →  Always learning, evolving, and building new systems  ║
-                                ╚═══════════════════════════════════════════════════════════════════╝
-```
-> *"First, solve the problem. Then, write the code."*
-<br/>
+# Yadhu Krishna U S
 
----
+### Full Stack Developer • Java Enthusiast • Problem Solver
 
-## ◈ Tech Stack
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadhukrishna07&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=bc8cff" width="100%"/>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yadhukrishna07&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yadhu-krishna-u-s-26374728a)
+[![Gmail](https://img.shields.io/badge/GMAIL-yadhukrishna1417-0d1117?style=for-the-badge&logo=gmail&logoColor=bc8cff)](mailto:yadhukrishna1417@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-Yadhukrishna07-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Yadhukrishna07)
+[![Resume](https://img.shields.io/badge/RESUME-Download-0d1117?style=for-the-badge&logo=readdotcv&logoColor=bc8cff)](./Resume.pdf)
+
+<br>
+
+### *"First, solve the problem. Then, write the code."*
+
+</div>
+
+<br>
+
+## 🜁 About Me
+
+Enthusiastic and driven fresher with hands-on experience in web development using HTML, CSS, and React, and a strong footing in Java and problem-solving. Passionate about contributing to impactful, real-world projects in a dynamic technical environment.
+
+| | |
+|---|---|
+| 🎓 **Course** | B.Tech Information Technology (CGPA: 7.58) |
+| 🏫 **College** | RMK Engineering College, Chennai |
+| 📍 **Base** | Chennai, India |
+| 💡 **Passion** | Full Stack Development & Problem Solving |
+| 🚀 **Mission** | Always learning, evolving, and building new systems |
+
+<br>
+
+## 🜁 Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=e94560)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e94560)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=e94560)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58a6ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58a6ff)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=e94560)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=e94560)
-![Angular](https://img.shields.io/badge/Angular-1a1a2e?style=for-the-badge&logo=angular&logoColor=e94560)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e94560)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=e94560)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=bc8cff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=bc8cff)
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=bc8cff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=bc8cff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=bc8cff)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=e94560)
-![Convex](https://img.shields.io/badge/Convex-1a1a2e?style=for-the-badge&logo=convex&logoColor=e94560)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3fb950)
+![Convex]
 
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=e94560)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=e94560)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=e94560)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=e94560)
-
-</div>
-
-<br/>
-
----
-
-## ◈ What I Build
-
-```text
-                                ╔═════════════════════════════════════════════════════════════════════╗
-                                ║  ◆  FocusFlow                    →  Encrypted, AI-personalized app  ║
-                                ║  ◆  Weather Application          →  Real-time data with Angular     ║
-                                ║  ◆  Student Management System    →  Full-stack MERN application    ║
-                                ║  ◆  Open to Collaborate          →  Innovative Software Projects   ║
-                                ╚═════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## ◈ Experience
-
-```text
-  ◆  Full Stack Intern       →  National Small Industries Corporation, Chennai   (Jun 2025)
-  ◆  Web Developer Intern    →  Prodigy Infotech                                 (Jun 2024)
-```
-
----
-
-## ◈ Certifications
-
-```text
-  ◆  Oracle AI Vector Search Certification
-  ◆  NPTEL: Introduction to Internet of Things (Elite)
-```
+`
 
 ---
 
