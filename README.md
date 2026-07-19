@@ -14,12 +14,6 @@
 
 ### Full Stack Developer • Java Enthusiast • Problem Solver
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadhukrishna07&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=bc8cff" width="100%"/>
-
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Yadhukrishna07&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yadhu-krishna-u-s-26374728a)
 [![Gmail](https://img.shields.io/badge/GMAIL-yadhukrishna1417-0d1117?style=for-the-badge&logo=gmail&logoColor=bc8cff)](mailto:yadhukrishna1417@gmail.com)
